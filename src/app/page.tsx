@@ -28,7 +28,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Hello there,i'm Akash Deep
+            Hello there,i&apos;s Akash Deep
           </p>
         </a>
 
